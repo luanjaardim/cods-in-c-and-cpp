@@ -7,7 +7,6 @@ void Euclides_recursivo(long a, long b, long *mdc);
 
 int main()
 {
-
 long num1=0, num2=0, mdc=1;
 
 printf("Digite dois numeros para que eu encontre O MDC deles!\n");
